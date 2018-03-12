@@ -1,4 +1,4 @@
-# raspberryPi
+# SmartBilling
 ## Getting started
 *Smart Billing System using raspberrypi 
 *download the Git repository as a ZIP
